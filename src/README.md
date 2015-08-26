@@ -1,0 +1,1 @@
+Ejemplo del patron "observe" en java con las clases ; Nomina y Timbre
